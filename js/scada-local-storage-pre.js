@@ -15,7 +15,7 @@
         } else {
             // We have to first load the font file asynchronously
             var request = new XMLHttpRequest();
-            request.open('GET', '/_bal/css/scada-embed.woff.css', true);
+            request.open('GET', '/_bors-assets/font-scada/css/scada-embed.woff.css', true);
 
             request.onload = function() {
                 if (request.status >= 200 && request.status < 400) {
