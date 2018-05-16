@@ -4,12 +4,12 @@
   "description": "",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Balancer/board-theme-asset.git"
+    "url": "git+https://github.com/Balancer/bors-font-scada-asset"
   },
   "author": "Balancer <balancer@balancer.ru>",
   "license": "OFL",
   "bugs": {
-    "url": "https://github.com/Balancer/board-theme-asset.git/issues"
+    "url": "https://github.com/Balancer/bors-font-scada-asset/issues"
   },
-  "homepage": "https://github.com/Balancer/board-theme-asset.git"
+  "homepage": "https://github.com/Balancer/bors-font-scada-asset"
 }
