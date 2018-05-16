@@ -1,0 +1,8 @@
+{
+    "name": "bors-font-scada-asset",
+    "version": "v1.1",
+    "main": [
+    	"css/*.css",
+    	"js/*.js"
+    ]
+}
